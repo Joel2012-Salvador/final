@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:yellowgreen;
+    padding: 10px;
+} 
+
+header a{
+    padding: 10px;
+    color: beige
+}
+h1 {
+ padding: 10px;   
+ color: royalblue;
+ text-align: center;
+}
+footer {
+  background-color: yellowgreen;
+  padding: 10px;
+}
+nav{
+  text-align: center;            
+  margin: 10px;
+  background-color: beige;
+}
+nav a{
+ border: 10px solid yellowgreen;
+padding: 10px;
+}
+
+.marte{
+    border: 10px solid yellowgreen;
+}
+h2{
+  text-align: center;
+}
+main a{
+   
+    padding: 10px;
+}
